@@ -8,7 +8,7 @@ kadar manuel test sürecinin tüm adımlarını kapsamaktadır.
 
 ---
 
-## 🎯 Proje Kapsamı
+##  Proje Kapsamı
 
 Bu projede aşağıdaki manuel test aktiviteleri gerçekleştirilmiştir:
 
@@ -24,7 +24,7 @@ göstermektir.
 
 ---
 
-## 📱 Test Edilen Uygulama (AUT)
+##  Test Edilen Uygulama (AUT)
 
 - **Platform:** Android  
 - **Uygulama Türü:** Not alma uygulaması  
@@ -51,9 +51,9 @@ mobile-manual-testing-project
 
 ---
 
-## 🧪 Test Artefaktları
+##  Test Artefaktları
 
-### 📄 Test Senaryoları
+###  Test Senaryoları
 Uygulamanın temel fonksiyonlarını kapsayan yüksek seviyeli test senaryoları
 aşağıdaki dosyada yer almaktadır:
 
@@ -61,7 +61,7 @@ aşağıdaki dosyada yer almaktadır:
 
 ---
 
-### 📋 Test Caseler
+###  Test Caseler
 Tüm detaylı test caseler Excel formatında hazırlanmıştır ve aşağıdaki alanları içerir:
 
 - Ön koşullar (Preconditions)  
@@ -77,7 +77,7 @@ Tüm detaylı test caseler Excel formatında hazırlanmıştır ve aşağıdaki 
 
 ---
 
-### 🧾 Test Verileri
+###  Test Verileri
 Test senaryolarında kullanılan tüm veriler ayrı bir test data tablosu olarak
 tanımlanmıştır. Bu yapı, testlerin tekrar edilebilirliğini sağlamaktadır.
 
@@ -93,7 +93,7 @@ tanımlanmıştır. Bu yapı, testlerin tekrar edilebilirliğini sağlamaktadır
 
 ---
 
-## ▶️ Test Çalıştırma Özeti
+##  Test Çalıştırma Özeti
 
 | Metrik | Değer |
 |------|------|
@@ -108,13 +108,13 @@ Test edilen kapsam dahilinde **fonksiyonel bir hata tespit edilmemiştir**.
 
 ---
 
-## 🐞 Hata / İyileştirme Özeti
+##  Hata / İyileştirme Özeti
 
 Test süreci boyunca kritik veya yüksek öncelikli bir fonksiyonel hata
 bulunmamıştır. Ancak kullanıcı deneyimi açısından bir iyileştirme alanı
 tespit edilmiştir.
 
-### 📌 Kayıt Altına Alınan Bulgular
+###  Kayıt Altına Alınan Bulgular
 
 - **BR-001 – Hata Bulunamadı (No Defect Found)**
   - Test edilen kapsam dahilinde fonksiyonel bir hata tespit edilmemiştir.
@@ -132,7 +132,7 @@ tespit edilmiştir.
 
 ---
 
-## 📱 Test Ortamı
+##  Test Ortamı
 
 Testlerin gerçekleştirildiği cihaz ve ortam bilgileri aşağıdaki dosyada yer almaktadır:
 
@@ -140,7 +140,7 @@ Testlerin gerçekleştirildiği cihaz ve ortam bilgileri aşağıdaki dosyada ye
 
 ---
 
-## ✅ Sonuç
+##  Sonuç
 
 Bu proje, manuel mobil test süreçlerinin nasıl yürütüldüğünü
 gösteren bir çalışmadır.
