@@ -34,6 +34,8 @@ göstermektir.
 
 ## 📂 Repository Yapısı
 
+```text
+
 mobile-manual-testing-project/
 │
 ├── README.md                  # Proje açıklaması ve özet
@@ -50,7 +52,7 @@ mobile-manual-testing-project/
     ├── BR-001-no-defect-found.md     # Bug bulunmaması durumu
     └── BR-002-ux-improvement.md      # UX iyileştirme önerisi
 
-
+```
 
 ---
 
