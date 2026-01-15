@@ -1,4 +1,4 @@
-# 🧪 Test Caseler – Simple Notes (Android)
+#  Test Caseler – Simple Notes (Android)
 
 Bu doküman, Simple Notes Android uygulaması için hazırlanan
 tüm manuel test caseleri içermektedir.

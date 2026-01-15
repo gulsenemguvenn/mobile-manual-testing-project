@@ -1,4 +1,4 @@
-# 🧾 Test Data – Simple Notes (Android)
+#  Test Data – Simple Notes (Android)
 
 Bu doküman, manuel testlerde kullanılan tüm test verilerini içermektedir.
 
