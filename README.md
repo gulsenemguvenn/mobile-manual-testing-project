@@ -34,19 +34,21 @@ göstermektir.
 
 ## 📂 Repository Yapısı
 
-mobile-manual-testing-project
+mobile-manual-testing-project/
 │
-├── test-plan.md # Test stratejisi ve kapsam
-├── test-scenarios.md # Yüksek seviyeli test senaryoları
+├── README.md                  # Proje açıklaması ve özet
+├── test-plan.md               # Test stratejisi ve kapsam
+├── test-scenarios.md          # Yüksek seviyeli test senaryoları
+├── device-info.md             # Cihaz ve test ortamı bilgileri
+│
 ├── test-artifacts/
-│ └── Mobile_Manual_Testing.xlsx
-│ ├── Test_Cases
-│ ├── Test_Data
-│ └── Bug_Reports
-├── bug-reports/ # Detaylı bug / iyileştirme raporları
-├── screenshots/ # Test sırasında alınan ekran görüntüleri
-├── device-info.md # Cihaz ve test ortamı bilgileri
-└── README.md
+│   ├── Mobile_Manual_Testing.xlsx   # Tüm test çıktılarının Excel versiyonu
+│   ├── test-cases.md                # Test case’lerin Markdown hali
+│   └── test-data.md                 # Test data’ların Markdown hali
+│
+├── bug-reports/
+│   ├── BR-001-no-defect-found.md     # Bug bulunmaması durumu
+│   └── BR-002-ux-improvement.md      # UX iyileştirme önerisi
 
 
 ---
