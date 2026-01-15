@@ -46,9 +46,10 @@ mobile-manual-testing-project/
 │   ├── test-cases.md                # Test case’lerin Markdown hali
 │   └── test-data.md                 # Test data’ların Markdown hali
 │
-├── bug-reports/
-│   ├── BR-001-no-defect-found.md     # Bug bulunmaması durumu
-│   └── BR-002-ux-improvement.md      # UX iyileştirme önerisi
+└── bug-reports/
+    ├── BR-001-no-defect-found.md     # Bug bulunmaması durumu
+    └── BR-002-ux-improvement.md      # UX iyileştirme önerisi
+
 
 
 ---
